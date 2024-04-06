@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Property Data and Event triggers", "Property Data and Event triggers\Property Data and Event triggers.csproj", "{9004875E-F009-4808-9346-D8724A9EF8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9004875E-F009-4808-9346-D8724A9EF8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9004875E-F009-4808-9346-D8724A9EF8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9004875E-F009-4808-9346-D8724A9EF8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9004875E-F009-4808-9346-D8724A9EF8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A19B4B-F285-4010-9503-799691044756}
+	EndGlobalSection
+EndGlobal
